@@ -1,0 +1,5 @@
+The table and graphs are on United States companies.
+
+Management score is normally distributed, and firm size is heavily skewed with a long right tail. Both of these distributions are inline with the findings for Mexico.
+
+Overall, United States companies have a higher mean and median management score and a lower standard deviation than companies from Mexico. As the firm size increases, the average management score goes up, inline with the findings for Mexico.
