@@ -1,0 +1,7 @@
+Both distributions exhibit extreme values. I would keep these values since luxury hotels and remote locations are important for the analysis of whether distance impact price.
+
+Description of distance distribution:
+The distance distribution is right-skewed with a long right tail, with most hotels concentrated within 2 miles of the center. A steep drop-off occurs after 2 miles, indicating that most travelers prefer proximity to the city center. A few hotels located farther than 6 miles represent potential outliers.
+
+Description of distance distribution: 
+The price distribution is also right-skewed with a long right tail, with the majority of hotels priced below 500 USD. The median price is 124 USD, and most hotels fall between 85 USD and 218 USD. A few hotels priced above 1000 dollars represent potential outliers.
